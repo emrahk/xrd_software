@@ -1,0 +1,1 @@
+"./rena.obj" "./pulsar.obj" "./pre_init.obj" "./mmc.obj" "./main.obj" "./ff.obj" "./UART.obj" "./Timer.obj" "./SPI.obj" "./RTC.obj" "./MemoryHandling.obj" "./HAL_SDCard.obj" "./ByteFunctions.obj" "./ADC.obj" "./AD9243.obj" -l"libc.a" "../lnk_msp430f5438a.cmd" 
